@@ -1,0 +1,421 @@
+2025-12-18 01:16:15,175 - INFO - ======================================================================
+2025-12-18 01:16:15,175 - INFO - Security Manager Module Loaded
+2025-12-18 01:16:15,175 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 01:16:15,176 - INFO - ======================================================================
+2025-12-18 01:16:15,176 - INFO - SecurityManager instance initialized
+2025-12-18 01:16:15,414 - WARNING -  * Debugger is active!
+2025-12-18 01:16:15,418 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 01:16:19,625 - INFO - 127.0.0.1 - - [18/Dec/2025 01:16:19] "GET /login HTTP/1.1" 200 -
+2025-12-18 01:16:19,769 - INFO - 127.0.0.1 - - [18/Dec/2025 01:16:19] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 01:16:21,213 - INFO - 127.0.0.1 - - [18/Dec/2025 01:16:21] "GET /login.html HTTP/1.1" 200 -
+2025-12-18 14:11:07,782 - INFO - ======================================================================
+2025-12-18 14:11:07,782 - INFO - Security Manager Module Loaded
+2025-12-18 14:11:07,782 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:11:07,783 - INFO - ======================================================================
+2025-12-18 14:11:07,783 - INFO - SecurityManager instance initialized
+2025-12-18 14:11:21,354 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.59.46.152:5000
+2025-12-18 14:11:21,355 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 14:11:21,357 - INFO -  * Restarting with stat
+2025-12-18 14:11:21,870 - INFO - ======================================================================
+2025-12-18 14:11:21,871 - INFO - Security Manager Module Loaded
+2025-12-18 14:11:21,871 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:11:21,872 - INFO - ======================================================================
+2025-12-18 14:11:21,872 - INFO - SecurityManager instance initialized
+2025-12-18 14:11:22,099 - WARNING -  * Debugger is active!
+2025-12-18 14:11:22,112 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 14:11:39,413 - INFO - 127.0.0.1 - - [18/Dec/2025 14:11:39] "GET /login HTTP/1.1" 200 -
+2025-12-18 14:11:39,583 - INFO - 127.0.0.1 - - [18/Dec/2025 14:11:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-18 14:11:48,213 - INFO - 127.0.0.1 - - [18/Dec/2025 14:11:48] "POST /api/auth/login HTTP/1.1" 200 -
+2025-12-18 14:11:50,097 - INFO - 127.0.0.1 - - [18/Dec/2025 14:11:50] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 14:12:18,009 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 2344885, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2025-12-18 14:12:24,474 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "secret_hash": "dd2f25c2a1960ac0aedc40c9fe4d5ae7f8b9daf413012d7747bdd267b592f942", "output_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "ip_address": "127.0.0.1"}
+2025-12-18 14:12:24,648 - INFO - 127.0.0.1 - - [18/Dec/2025 14:12:24] "POST /api/hide HTTP/1.1" 200 -
+2025-12-18 14:12:43,530 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "reveal_image", "file_size": 11581721, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2025-12-18 14:12:46,117 - INFO - [INFO] reveal_image | User: 1 | Details: {"steg_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "output_hash": "4e33f82b3e576f01b1164787c822d87fff988e816752e0528303690eb4731283", "ip_address": "127.0.0.1"}
+2025-12-18 14:12:46,161 - INFO - 127.0.0.1 - - [18/Dec/2025 14:12:46] "POST /api/reveal HTTP/1.1" 200 -
+2025-12-18 14:17:02,572 - INFO -  * Detected change in 'C:\\Users\\Asus\\OneDrive\\Desktop\\InvisiCipher\\app\\web\\app_secure.py', reloading
+2025-12-18 14:17:02,730 - INFO -  * Restarting with stat
+2025-12-18 14:17:03,293 - INFO - ======================================================================
+2025-12-18 14:17:03,293 - INFO - Security Manager Module Loaded
+2025-12-18 14:17:03,293 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:17:03,294 - INFO - ======================================================================
+2025-12-18 14:17:03,294 - INFO - SecurityManager instance initialized
+2025-12-18 14:17:03,503 - WARNING -  * Debugger is active!
+2025-12-18 14:17:03,507 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 14:17:42,431 - INFO - ======================================================================
+2025-12-18 14:17:42,431 - INFO - Security Manager Module Loaded
+2025-12-18 14:17:42,431 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:17:42,431 - INFO - ======================================================================
+2025-12-18 14:17:42,432 - INFO - SecurityManager instance initialized
+2025-12-18 14:17:46,091 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.59.46.152:5000
+2025-12-18 14:17:46,092 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 14:17:46,094 - INFO -  * Restarting with stat
+2025-12-18 14:17:46,538 - INFO - ======================================================================
+2025-12-18 14:17:46,538 - INFO - Security Manager Module Loaded
+2025-12-18 14:17:46,539 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:17:46,539 - INFO - ======================================================================
+2025-12-18 14:17:46,539 - INFO - SecurityManager instance initialized
+2025-12-18 14:17:46,759 - WARNING -  * Debugger is active!
+2025-12-18 14:17:46,765 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 14:17:50,779 - INFO - 127.0.0.1 - - [18/Dec/2025 14:17:50] "GET /login HTTP/1.1" 200 -
+2025-12-18 14:17:51,570 - INFO - 127.0.0.1 - - [18/Dec/2025 14:17:51] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 14:17:53,221 - INFO - 127.0.0.1 - - [18/Dec/2025 14:17:53] "GET /login.html HTTP/1.1" 200 -
+2025-12-18 14:18:02,539 - INFO - 127.0.0.1 - - [18/Dec/2025 14:18:02] "POST /api/auth/login HTTP/1.1" 200 -
+2025-12-18 14:18:04,077 - INFO - 127.0.0.1 - - [18/Dec/2025 14:18:04] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 14:19:29,535 - INFO - [INFO] validation_success | User: 2 | Details: {"operation": "encrypt", "file_size": 11581721, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2025-12-18 14:19:29,855 - INFO - [INFO] encrypt | User: 2 | Details: {"algorithm": "aes", "original_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "encrypted_hash": "1f0ecfe2696556749ce19dd24de6d15eeac8f7f990626cb3e3206a3801c60547", "ip_address": "127.0.0.1"}
+2025-12-18 14:19:30,008 - INFO - 127.0.0.1 - - [18/Dec/2025 14:19:30] "POST /api/encrypt HTTP/1.1" 200 -
+2025-12-18 14:19:31,616 - INFO - 127.0.0.1 - - [18/Dec/2025 14:19:31] "[33mGET /api/api/download/encrypted_output.enc HTTP/1.1[0m" 404 -
+2025-12-18 14:19:45,655 - INFO - [INFO] validation_success | User: 2 | Details: {"operation": "decrypt", "file_size": 11581744, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2025-12-18 14:19:46,015 - INFO - [INFO] decrypt | User: 2 | Details: {"status": "success", "ip_address": "127.0.0.1"}
+2025-12-18 14:19:46,138 - INFO - 127.0.0.1 - - [18/Dec/2025 14:19:46] "POST /api/decrypt HTTP/1.1" 200 -
+2025-12-18 14:24:57,472 - INFO - ======================================================================
+2025-12-18 14:24:57,473 - INFO - Security Manager Module Loaded
+2025-12-18 14:24:57,474 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:24:57,474 - INFO - ======================================================================
+2025-12-18 14:24:57,474 - INFO - SecurityManager instance initialized
+2025-12-18 14:24:59,037 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.59.46.152:5000
+2025-12-18 14:24:59,038 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 14:24:59,040 - INFO -  * Restarting with stat
+2025-12-18 14:24:59,499 - INFO - ======================================================================
+2025-12-18 14:24:59,499 - INFO - Security Manager Module Loaded
+2025-12-18 14:24:59,500 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:24:59,500 - INFO - ======================================================================
+2025-12-18 14:24:59,500 - INFO - SecurityManager instance initialized
+2025-12-18 14:24:59,715 - WARNING -  * Debugger is active!
+2025-12-18 14:24:59,720 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 14:25:20,389 - INFO - 127.0.0.1 - - [18/Dec/2025 14:25:20] "GET /login HTTP/1.1" 200 -
+2025-12-18 14:25:20,847 - INFO - 127.0.0.1 - - [18/Dec/2025 14:25:20] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 14:30:33,815 - INFO - ======================================================================
+2025-12-18 14:30:33,815 - INFO - Security Manager Module Loaded
+2025-12-18 14:30:33,816 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:30:33,816 - INFO - ======================================================================
+2025-12-18 14:30:33,816 - INFO - SecurityManager instance initialized
+2025-12-18 14:30:34,066 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.59.46.152:5000
+2025-12-18 14:30:34,066 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 14:30:34,069 - INFO -  * Restarting with stat
+2025-12-18 14:30:34,520 - INFO - ======================================================================
+2025-12-18 14:30:34,520 - INFO - Security Manager Module Loaded
+2025-12-18 14:30:34,520 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 14:30:34,521 - INFO - ======================================================================
+2025-12-18 14:30:34,521 - INFO - SecurityManager instance initialized
+2025-12-18 14:30:34,697 - WARNING -  * Debugger is active!
+2025-12-18 14:30:34,702 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 14:30:40,250 - INFO - 127.0.0.1 - - [18/Dec/2025 14:30:40] "GET /login HTTP/1.1" 200 -
+2025-12-18 14:30:40,543 - INFO - 127.0.0.1 - - [18/Dec/2025 14:30:40] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 14:30:41,764 - INFO - 127.0.0.1 - - [18/Dec/2025 14:30:41] "GET /login.html HTTP/1.1" 200 -
+2025-12-18 14:31:05,604 - INFO - 127.0.0.1 - - [18/Dec/2025 14:31:05] "POST /api/auth/login HTTP/1.1" 200 -
+2025-12-18 14:31:07,138 - INFO - 127.0.0.1 - - [18/Dec/2025 14:31:07] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 14:31:28,747 - INFO - [INFO] validation_success | User: 4 | Details: {"operation": "hide_image", "file_size": 1070809, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2025-12-18 14:31:29,566 - INFO - [INFO] hide_image | User: 4 | Details: {"cover_hash": "074c5879780d8351fe23bc7611b116ffbe5aa0798394676e1570d024fcc643f2", "secret_hash": "9a6101207dfc8bbee7d1653dc59ee6f5b41c13fe415ad98ab5086265ceefa1da", "output_hash": "abd11e4af017121dcc53609c4331fb37c81d37a0de3442dd57c26410319b9b41", "ip_address": "127.0.0.1"}
+2025-12-18 14:31:29,582 - INFO - 127.0.0.1 - - [18/Dec/2025 14:31:29] "POST /api/hide HTTP/1.1" 200 -
+2025-12-18 14:31:29,928 - INFO - 127.0.0.1 - - [18/Dec/2025 14:31:29] "[33mGET /x HTTP/1.1[0m" 404 -
+2025-12-18 14:36:59,525 - INFO - 127.0.0.1 - - [18/Dec/2025 14:36:59] "GET /login.html HTTP/1.1" 200 -
+2025-12-18 16:02:55,838 - INFO - ======================================================================
+2025-12-18 16:02:55,838 - INFO - Security Manager Module Loaded
+2025-12-18 16:02:55,839 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 16:02:55,839 - INFO - ======================================================================
+2025-12-18 16:02:55,839 - INFO - SecurityManager instance initialized
+2025-12-18 16:02:57,194 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.59.46.152:5000
+2025-12-18 16:02:57,195 - INFO - [33mPress CTRL+C to quit[0m
+2025-12-18 16:02:57,197 - INFO -  * Restarting with stat
+2025-12-18 16:02:57,619 - INFO - ======================================================================
+2025-12-18 16:02:57,619 - INFO - Security Manager Module Loaded
+2025-12-18 16:02:57,619 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 16:02:57,619 - INFO - ======================================================================
+2025-12-18 16:02:57,620 - INFO - SecurityManager instance initialized
+2025-12-18 16:02:57,858 - WARNING -  * Debugger is active!
+2025-12-18 16:02:57,864 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 16:03:02,443 - INFO - 127.0.0.1 - - [18/Dec/2025 16:03:02] "GET /login HTTP/1.1" 200 -
+2025-12-18 16:03:15,758 - INFO - 127.0.0.1 - - [18/Dec/2025 16:03:15] "POST /api/auth/login HTTP/1.1" 200 -
+2025-12-18 16:03:17,377 - INFO - 127.0.0.1 - - [18/Dec/2025 16:03:17] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 16:09:24,379 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 2344885, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2025-12-18 16:09:30,142 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "secret_hash": "dd2f25c2a1960ac0aedc40c9fe4d5ae7f8b9daf413012d7747bdd267b592f942", "output_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "ip_address": "127.0.0.1"}
+2025-12-18 16:09:30,351 - INFO - 127.0.0.1 - - [18/Dec/2025 16:09:30] "POST /api/hide HTTP/1.1" 200 -
+2025-12-18 16:10:48,732 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "reveal_image", "file_size": 11581721, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2025-12-18 16:10:50,722 - INFO - [INFO] reveal_image | User: 1 | Details: {"steg_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "output_hash": "4e33f82b3e576f01b1164787c822d87fff988e816752e0528303690eb4731283", "ip_address": "127.0.0.1"}
+2025-12-18 16:10:50,744 - INFO - 127.0.0.1 - - [18/Dec/2025 16:10:50] "POST /api/reveal HTTP/1.1" 200 -
+2025-12-18 16:13:05,826 - INFO - 127.0.0.1 - - [18/Dec/2025 16:13:05] "POST /api/auth/login HTTP/1.1" 200 -
+2025-12-18 16:13:07,351 - INFO - 127.0.0.1 - - [18/Dec/2025 16:13:07] "GET /index.html HTTP/1.1" 200 -
+2025-12-18 16:14:59,768 - INFO -  * Detected change in 'C:\\Users\\Asus\\OneDrive\\Desktop\\InvisiCipher\\app\\web\\app_secure.py', reloading
+2025-12-18 16:14:59,922 - INFO -  * Restarting with stat
+2025-12-18 16:15:00,431 - INFO - ======================================================================
+2025-12-18 16:15:00,431 - INFO - Security Manager Module Loaded
+2025-12-18 16:15:00,432 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 16:15:00,432 - INFO - ======================================================================
+2025-12-18 16:15:00,433 - INFO - SecurityManager instance initialized
+2025-12-18 16:15:00,646 - WARNING -  * Debugger is active!
+2025-12-18 16:15:00,652 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 16:15:16,901 - INFO -  * Detected change in 'C:\\Users\\Asus\\OneDrive\\Desktop\\InvisiCipher\\app\\web\\app_secure.py', reloading
+2025-12-18 16:15:16,980 - INFO -  * Restarting with stat
+2025-12-18 16:15:17,455 - INFO - ======================================================================
+2025-12-18 16:15:17,455 - INFO - Security Manager Module Loaded
+2025-12-18 16:15:17,455 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 16:15:17,455 - INFO - ======================================================================
+2025-12-18 16:15:17,456 - INFO - SecurityManager instance initialized
+2025-12-18 16:15:17,690 - WARNING -  * Debugger is active!
+2025-12-18 16:15:17,695 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 16:15:25,830 - INFO -  * Detected change in 'C:\\Users\\Asus\\OneDrive\\Desktop\\InvisiCipher\\app\\web\\app_secure.py', reloading
+2025-12-18 16:15:25,941 - INFO -  * Restarting with stat
+2025-12-18 16:15:26,542 - INFO - ======================================================================
+2025-12-18 16:15:26,542 - INFO - Security Manager Module Loaded
+2025-12-18 16:15:26,543 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 16:15:26,543 - INFO - ======================================================================
+2025-12-18 16:15:26,544 - INFO - SecurityManager instance initialized
+2025-12-18 16:15:27,025 - WARNING -  * Debugger is active!
+2025-12-18 16:15:27,030 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 16:15:28,120 - INFO -  * Detected change in 'C:\\Users\\Asus\\OneDrive\\Desktop\\InvisiCipher\\app\\web\\app_secure.py', reloading
+2025-12-18 16:15:28,259 - INFO -  * Restarting with stat
+2025-12-18 16:15:28,838 - INFO - ======================================================================
+2025-12-18 16:15:28,839 - INFO - Security Manager Module Loaded
+2025-12-18 16:15:28,839 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2025-12-18 16:15:28,839 - INFO - ======================================================================
+2025-12-18 16:15:28,839 - INFO - SecurityManager instance initialized
+2025-12-18 16:15:29,094 - WARNING -  * Debugger is active!
+2025-12-18 16:15:29,098 - INFO -  * Debugger PIN: 489-012-335
+2025-12-18 16:21:04,941 - INFO - 127.0.0.1 - - [18/Dec/2025 16:21:04] "POST /api/auth/login HTTP/1.1" 200 -
+2025-12-18 16:21:06,487 - INFO - 127.0.0.1 - - [18/Dec/2025 16:21:06] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 16:06:25,248 - INFO - ======================================================================
+2026-01-20 16:06:25,249 - INFO - Security Manager Module Loaded
+2026-01-20 16:06:25,250 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 16:06:25,250 - INFO - ======================================================================
+2026-01-20 16:06:25,251 - INFO - SecurityManager instance initialized
+2026-01-20 16:06:27,939 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.20:5000
+2026-01-20 16:06:27,940 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-20 16:06:27,942 - INFO -  * Restarting with stat
+2026-01-20 16:06:28,417 - INFO - ======================================================================
+2026-01-20 16:06:28,418 - INFO - Security Manager Module Loaded
+2026-01-20 16:06:28,418 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 16:06:28,418 - INFO - ======================================================================
+2026-01-20 16:06:28,419 - INFO - SecurityManager instance initialized
+2026-01-20 16:06:28,649 - WARNING -  * Debugger is active!
+2026-01-20 16:06:28,662 - INFO -  * Debugger PIN: 489-012-335
+2026-01-20 16:06:43,719 - INFO - 127.0.0.1 - - [20/Jan/2026 16:06:43] "GET /login HTTP/1.1" 200 -
+2026-01-20 16:06:44,017 - INFO - 127.0.0.1 - - [20/Jan/2026 16:06:44] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 16:06:44,144 - INFO - 127.0.0.1 - - [20/Jan/2026 16:06:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-20 16:06:54,831 - INFO - 127.0.0.1 - - [20/Jan/2026 16:06:54] "GET / HTTP/1.1" 200 -
+2026-01-20 16:06:57,573 - INFO - 127.0.0.1 - - [20/Jan/2026 16:06:57] "GET /login.html HTTP/1.1" 200 -
+2026-01-20 16:07:03,423 - INFO - 127.0.0.1 - - [20/Jan/2026 16:07:03] "GET /login HTTP/1.1" 200 -
+2026-01-20 16:08:15,089 - INFO - 127.0.0.1 - - [20/Jan/2026 16:08:15] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-20 16:08:16,620 - INFO - 127.0.0.1 - - [20/Jan/2026 16:08:16] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 16:08:46,785 - INFO - 127.0.0.1 - - [20/Jan/2026 16:08:46] "GET / HTTP/1.1" 200 -
+2026-01-20 16:19:04,760 - INFO - 127.0.0.1 - - [20/Jan/2026 16:19:04] "GET /login.html HTTP/1.1" 200 -
+2026-01-20 16:19:12,422 - INFO - 127.0.0.1 - - [20/Jan/2026 16:19:12] "GET /login.html HTTP/1.1" 200 -
+2026-01-20 16:19:16,632 - INFO - 127.0.0.1 - - [20/Jan/2026 16:19:16] "GET /login HTTP/1.1" 200 -
+2026-01-20 16:22:36,141 - INFO - 127.0.0.1 - - [20/Jan/2026 16:22:36] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 16:22:41,696 - INFO - 127.0.0.1 - - [20/Jan/2026 16:22:41] "GET /index HTTP/1.1" 200 -
+2026-01-20 16:24:18,709 - INFO - 127.0.0.1 - - [20/Jan/2026 16:24:18] "GET /login.html HTTP/1.1" 200 -
+2026-01-20 16:24:31,682 - INFO - 127.0.0.1 - - [20/Jan/2026 16:24:31] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-20 16:24:33,214 - INFO - 127.0.0.1 - - [20/Jan/2026 16:24:33] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 16:24:52,566 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 2344885, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-20 16:24:58,506 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "secret_hash": "43b3d67d950189a7990595c5612c134245436b029636f7bf04a04279a84ccf5c", "output_hash": "05ce3a66ea50335022ba6ed9a66aa10ccb445b117e715ce04b630729788f2eb2", "ip_address": "127.0.0.1"}
+2026-01-20 16:24:58,662 - INFO - 127.0.0.1 - - [20/Jan/2026 16:24:58] "POST /api/hide HTTP/1.1" 200 -
+2026-01-20 16:38:21,881 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 2344885, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-20 16:38:27,834 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "secret_hash": "43b3d67d950189a7990595c5612c134245436b029636f7bf04a04279a84ccf5c", "output_hash": "05ce3a66ea50335022ba6ed9a66aa10ccb445b117e715ce04b630729788f2eb2", "ip_address": "127.0.0.1"}
+2026-01-20 16:38:27,998 - INFO - 127.0.0.1 - - [20/Jan/2026 16:38:27] "POST /api/hide HTTP/1.1" 200 -
+2026-01-20 21:29:07,097 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 2344885, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-20 21:29:13,015 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "secret_hash": "43b3d67d950189a7990595c5612c134245436b029636f7bf04a04279a84ccf5c", "output_hash": "05ce3a66ea50335022ba6ed9a66aa10ccb445b117e715ce04b630729788f2eb2", "ip_address": "127.0.0.1"}
+2026-01-20 21:29:13,138 - INFO - 127.0.0.1 - - [20/Jan/2026 21:29:13] "POST /api/hide HTTP/1.1" 200 -
+2026-01-20 21:29:45,963 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "reveal_image", "file_size": 11513245, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-20 21:29:49,014 - INFO - [INFO] reveal_image | User: 1 | Details: {"steg_hash": "05ce3a66ea50335022ba6ed9a66aa10ccb445b117e715ce04b630729788f2eb2", "output_hash": "909e7514e365d93e49fd215cc7eb4024ccc00078237935b48e0f6ea713d478d8", "ip_address": "127.0.0.1"}
+2026-01-20 21:29:49,040 - INFO - 127.0.0.1 - - [20/Jan/2026 21:29:49] "POST /api/reveal HTTP/1.1" 200 -
+2026-01-20 21:39:06,780 - INFO - ======================================================================
+2026-01-20 21:39:06,780 - INFO - Security Manager Module Loaded
+2026-01-20 21:39:06,781 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 21:39:06,781 - INFO - ======================================================================
+2026-01-20 21:39:06,782 - INFO - SecurityManager instance initialized
+2026-01-20 21:39:07,280 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.20:5000
+2026-01-20 21:39:07,281 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-20 21:39:07,285 - INFO -  * Restarting with stat
+2026-01-20 21:39:07,862 - INFO - ======================================================================
+2026-01-20 21:39:07,862 - INFO - Security Manager Module Loaded
+2026-01-20 21:39:07,863 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 21:39:07,863 - INFO - ======================================================================
+2026-01-20 21:39:07,864 - INFO - SecurityManager instance initialized
+2026-01-20 21:39:08,161 - WARNING -  * Debugger is active!
+2026-01-20 21:39:08,177 - INFO -  * Debugger PIN: 489-012-335
+2026-01-20 21:39:11,121 - INFO - 127.0.0.1 - - [20/Jan/2026 21:39:11] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 21:39:37,845 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "encrypt", "file_size": 11513245, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-20 21:39:38,247 - INFO - [INFO] encrypt | User: 1 | Details: {"algorithm": "aes", "original_hash": "05ce3a66ea50335022ba6ed9a66aa10ccb445b117e715ce04b630729788f2eb2", "encrypted_hash": "a45f51df3803721de756a9e21c8c63a550194cbdd87677a8d2c452eb776ffaf0", "ip_address": "127.0.0.1"}
+2026-01-20 21:39:38,461 - INFO - 127.0.0.1 - - [20/Jan/2026 21:39:38] "POST /api/encrypt HTTP/1.1" 200 -
+2026-01-20 21:39:48,747 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "encrypt", "file_size": 11513245, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-20 21:39:48,978 - INFO - [INFO] encrypt | User: 1 | Details: {"algorithm": "aes", "original_hash": "05ce3a66ea50335022ba6ed9a66aa10ccb445b117e715ce04b630729788f2eb2", "encrypted_hash": "3d1c6ce59e4d41ef233397d580f1cdc0e3b8e6e5db2d0e2e2cfd7508bffcec24", "ip_address": "127.0.0.1"}
+2026-01-20 21:39:49,145 - INFO - 127.0.0.1 - - [20/Jan/2026 21:39:49] "POST /api/encrypt HTTP/1.1" 200 -
+2026-01-20 21:55:25,605 - INFO - ======================================================================
+2026-01-20 21:55:25,606 - INFO - Security Manager Module Loaded
+2026-01-20 21:55:25,606 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 21:55:25,607 - INFO - ======================================================================
+2026-01-20 21:55:25,607 - INFO - SecurityManager instance initialized
+2026-01-20 21:55:25,877 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.20:5000
+2026-01-20 21:55:25,877 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-20 21:55:25,880 - INFO -  * Restarting with stat
+2026-01-20 21:55:26,439 - INFO - ======================================================================
+2026-01-20 21:55:26,440 - INFO - Security Manager Module Loaded
+2026-01-20 21:55:26,440 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 21:55:26,440 - INFO - ======================================================================
+2026-01-20 21:55:26,440 - INFO - SecurityManager instance initialized
+2026-01-20 21:55:26,660 - WARNING -  * Debugger is active!
+2026-01-20 21:55:26,667 - INFO -  * Debugger PIN: 489-012-335
+2026-01-20 21:55:30,121 - INFO - 127.0.0.1 - - [20/Jan/2026 21:55:30] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 21:56:00,771 - INFO - 127.0.0.1 - - [20/Jan/2026 21:56:00] "[35m[1mPOST /api/decrypt HTTP/1.1[0m" 500 -
+2026-01-20 21:56:40,399 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "encrypt", "file_size": 11513245, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-20 21:56:40,613 - INFO - [INFO] encrypt | User: 1 | Details: {"algorithm": "aes", "original_hash": "05ce3a66ea50335022ba6ed9a66aa10ccb445b117e715ce04b630729788f2eb2", "encrypted_hash": "43da70a318992840cdd188329e66e5a54bdbd7719cdd89fe7f6b672d999f98d6", "ip_address": "127.0.0.1"}
+2026-01-20 21:56:40,800 - INFO - 127.0.0.1 - - [20/Jan/2026 21:56:40] "POST /api/encrypt HTTP/1.1" 200 -
+2026-01-20 21:57:01,297 - INFO - 127.0.0.1 - - [20/Jan/2026 21:57:01] "[35m[1mPOST /api/decrypt HTTP/1.1[0m" 500 -
+2026-01-20 21:57:02,418 - INFO - 127.0.0.1 - - [20/Jan/2026 21:57:02] "[35m[1mPOST /api/decrypt HTTP/1.1[0m" 500 -
+2026-01-20 22:04:59,412 - INFO - ======================================================================
+2026-01-20 22:04:59,413 - INFO - Security Manager Module Loaded
+2026-01-20 22:04:59,414 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 22:04:59,414 - INFO - ======================================================================
+2026-01-20 22:04:59,415 - INFO - SecurityManager instance initialized
+2026-01-20 22:04:59,713 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.20:5000
+2026-01-20 22:04:59,714 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-20 22:04:59,716 - INFO -  * Restarting with stat
+2026-01-20 22:05:00,326 - INFO - ======================================================================
+2026-01-20 22:05:00,327 - INFO - Security Manager Module Loaded
+2026-01-20 22:05:00,327 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-20 22:05:00,328 - INFO - ======================================================================
+2026-01-20 22:05:00,328 - INFO - SecurityManager instance initialized
+2026-01-20 22:05:00,595 - WARNING -  * Debugger is active!
+2026-01-20 22:05:00,599 - INFO -  * Debugger PIN: 489-012-335
+2026-01-20 22:05:00,649 - INFO - 127.0.0.1 - - [20/Jan/2026 22:05:00] "GET /login.html HTTP/1.1" 200 -
+2026-01-20 22:05:50,360 - INFO - 127.0.0.1 - - [20/Jan/2026 22:05:50] "[31m[1mPOST /api/auth/signup HTTP/1.1[0m" 400 -
+2026-01-20 22:06:04,084 - INFO - 127.0.0.1 - - [20/Jan/2026 22:06:04] "[35m[1mPOST /api/auth/signup HTTP/1.1[0m" 201 -
+2026-01-20 22:06:33,786 - INFO - 127.0.0.1 - - [20/Jan/2026 22:06:33] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-20 22:06:35,641 - INFO - 127.0.0.1 - - [20/Jan/2026 22:06:35] "GET /index.html HTTP/1.1" 200 -
+2026-01-20 22:08:21,732 - INFO - 127.0.0.1 - - [20/Jan/2026 22:08:21] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-01-20 22:10:43,267 - INFO - 127.0.0.1 - - [20/Jan/2026 22:10:43] "GET /login.html HTTP/1.1" 200 -
+2026-01-20 22:10:43,334 - INFO - 127.0.0.1 - - [20/Jan/2026 22:10:43] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2026-01-20 22:11:33,291 - INFO - 127.0.0.1 - - [20/Jan/2026 22:11:33] "[33mGET /auth/verify HTTP/1.1[0m" 404 -
+2026-01-20 22:16:34,152 - INFO - 127.0.0.1 - - [20/Jan/2026 22:16:34] "[31m[1mGET /api/auth/verify HTTP/1.1[0m" 401 -
+2026-01-20 22:21:26,310 - INFO - 127.0.0.1 - - [20/Jan/2026 22:21:26] "[31m[1mPOST /api/auth/signup HTTP/1.1[0m" 400 -
+2026-01-20 22:21:47,896 - INFO - 127.0.0.1 - - [20/Jan/2026 22:21:47] "[35m[1mPOST /api/auth/signup HTTP/1.1[0m" 500 -
+2026-01-20 22:21:51,369 - INFO - 127.0.0.1 - - [20/Jan/2026 22:21:51] "GET /login.html HTTP/1.1" 200 -
+2026-01-20 22:22:16,320 - INFO - 127.0.0.1 - - [20/Jan/2026 22:22:16] "[35m[1mPOST /api/auth/signup HTTP/1.1[0m" 500 -
+2026-01-29 12:35:10,658 - INFO - ======================================================================
+2026-01-29 12:35:10,665 - INFO - Security Manager Module Loaded
+2026-01-29 12:35:10,667 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-29 12:35:10,667 - INFO - ======================================================================
+2026-01-29 12:35:10,668 - INFO - SecurityManager instance initialized
+2026-01-29 12:35:16,359 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.114:5000
+2026-01-29 12:35:16,360 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 12:35:16,365 - INFO -  * Restarting with stat
+2026-01-29 12:35:17,695 - INFO - ======================================================================
+2026-01-29 12:35:17,696 - INFO - Security Manager Module Loaded
+2026-01-29 12:35:17,697 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-29 12:35:17,698 - INFO - ======================================================================
+2026-01-29 12:35:17,699 - INFO - SecurityManager instance initialized
+2026-01-29 12:35:18,317 - WARNING -  * Debugger is active!
+2026-01-29 12:35:18,336 - INFO -  * Debugger PIN: 489-012-335
+2026-01-29 12:35:23,446 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:23] "GET /login HTTP/1.1" 200 -
+2026-01-29 12:35:23,809 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-29 12:35:33,174 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:33] "GET / HTTP/1.1" 200 -
+2026-01-29 12:35:35,075 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:35] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 12:35:42,661 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:42] "GET / HTTP/1.1" 200 -
+2026-01-29 12:35:46,697 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:46] "GET / HTTP/1.1" 200 -
+2026-01-29 12:35:48,070 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:48] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 12:35:52,910 - INFO - 127.0.0.1 - - [29/Jan/2026 12:35:52] "GET / HTTP/1.1" 200 -
+2026-01-29 12:37:31,858 - INFO - 127.0.0.1 - - [29/Jan/2026 12:37:31] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-29 12:37:33,473 - INFO - 127.0.0.1 - - [29/Jan/2026 12:37:33] "GET /index.html HTTP/1.1" 200 -
+2026-01-29 12:38:18,953 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 2344885, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 12:38:39,877 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "secret_hash": "dd2f25c2a1960ac0aedc40c9fe4d5ae7f8b9daf413012d7747bdd267b592f942", "output_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "ip_address": "127.0.0.1"}
+2026-01-29 12:38:40,457 - INFO - 127.0.0.1 - - [29/Jan/2026 12:38:40] "POST /api/hide HTTP/1.1" 200 -
+2026-01-29 12:39:08,830 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "reveal_image", "file_size": 11581721, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 12:39:19,031 - INFO - [INFO] reveal_image | User: 1 | Details: {"steg_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "output_hash": "4e33f82b3e576f01b1164787c822d87fff988e816752e0528303690eb4731283", "ip_address": "127.0.0.1"}
+2026-01-29 12:39:19,176 - INFO - 127.0.0.1 - - [29/Jan/2026 12:39:19] "POST /api/reveal HTTP/1.1" 200 -
+2026-01-29 12:39:47,509 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "encrypt", "file_size": 11581721, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 12:39:49,841 - INFO - [INFO] encrypt | User: 1 | Details: {"algorithm": "aes", "original_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "encrypted_hash": "765dc3c92e69f08b58c47c8219370b8d77e7e294e62c1b67d54ed0f787736fe9", "ip_address": "127.0.0.1"}
+2026-01-29 12:39:51,026 - INFO - 127.0.0.1 - - [29/Jan/2026 12:39:51] "POST /api/encrypt HTTP/1.1" 200 -
+2026-01-29 12:40:03,403 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "encrypt", "file_size": 11581721, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 12:40:05,274 - INFO - [INFO] encrypt | User: 1 | Details: {"algorithm": "aes", "original_hash": "9002afa70b8f134360e18d81069f12a25a16e92d6032b46ba498ebb5a0f8886c", "encrypted_hash": "c7f586088283dbe8f400754950fe214ee467a1dbbb689ce7647ee237da4e5120", "ip_address": "127.0.0.1"}
+2026-01-29 12:40:06,890 - INFO - 127.0.0.1 - - [29/Jan/2026 12:40:06] "POST /api/encrypt HTTP/1.1" 200 -
+2026-01-29 12:40:09,975 - INFO - 127.0.0.1 - - [29/Jan/2026 12:40:09] "[33mGET /api/api/download/encrypted_output.enc HTTP/1.1[0m" 404 -
+2026-01-29 12:40:38,377 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "decrypt", "file_size": 11581744, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 12:40:40,696 - INFO - [INFO] decrypt | User: 1 | Details: {"status": "success", "ip_address": "127.0.0.1"}
+2026-01-29 12:40:41,501 - INFO - 127.0.0.1 - - [29/Jan/2026 12:40:41] "POST /api/decrypt HTTP/1.1" 200 -
+2026-01-29 12:40:49,969 - INFO - 127.0.0.1 - - [29/Jan/2026 12:40:49] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 12:57:22,445 - INFO - ======================================================================
+2026-01-29 12:57:22,447 - INFO - Security Manager Module Loaded
+2026-01-29 12:57:22,448 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-29 12:57:22,449 - INFO - ======================================================================
+2026-01-29 12:57:22,450 - INFO - SecurityManager instance initialized
+2026-01-29 12:57:26,250 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.114:5000
+2026-01-29 12:57:26,259 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-29 12:57:26,285 - INFO -  * Restarting with stat
+2026-01-29 12:57:30,433 - INFO - ======================================================================
+2026-01-29 12:57:30,442 - INFO - Security Manager Module Loaded
+2026-01-29 12:57:30,455 - INFO - Audit log file: C:\Users\Asus\OneDrive\Desktop\InvisiCipher\security_audit.log
+2026-01-29 12:57:30,464 - INFO - ======================================================================
+2026-01-29 12:57:30,472 - INFO - SecurityManager instance initialized
+2026-01-29 12:57:33,812 - WARNING -  * Debugger is active!
+2026-01-29 12:57:33,887 - INFO -  * Debugger PIN: 489-012-335
+2026-01-29 12:57:34,890 - INFO - 127.0.0.1 - - [29/Jan/2026 12:57:34] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 12:57:40,963 - INFO - 127.0.0.1 - - [29/Jan/2026 12:57:40] "GET / HTTP/1.1" 200 -
+2026-01-29 12:59:43,484 - INFO - 127.0.0.1 - - [29/Jan/2026 12:59:43] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-29 12:59:45,112 - INFO - 127.0.0.1 - - [29/Jan/2026 12:59:45] "GET /index.html HTTP/1.1" 200 -
+2026-01-29 13:00:26,065 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 17557, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 13:00:31,262 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "5f00d093bb7603fd3234e49b1ab30702e9ad36f7e11b4e585bf5e391d1ee0d75", "secret_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "output_hash": "843b7a6b9f9e6dee6ea852512c520f57c414e11ad1c482885faeb7302a9f2abc", "ip_address": "127.0.0.1"}
+2026-01-29 13:00:31,321 - INFO - 127.0.0.1 - - [29/Jan/2026 13:00:31] "POST /api/hide HTTP/1.1" 200 -
+2026-01-29 13:00:58,631 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "reveal_image", "file_size": 47026, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 13:00:59,219 - INFO - [INFO] reveal_image | User: 1 | Details: {"steg_hash": "843b7a6b9f9e6dee6ea852512c520f57c414e11ad1c482885faeb7302a9f2abc", "output_hash": "57520c97a06f29b1b3e8a327d44ecd925de34d85949c7967bfa1d15cb71de328", "ip_address": "127.0.0.1"}
+2026-01-29 13:00:59,278 - INFO - 127.0.0.1 - - [29/Jan/2026 13:00:59] "POST /api/reveal HTTP/1.1" 200 -
+2026-01-29 13:01:40,637 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "encrypt", "file_size": 47026, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 13:01:41,568 - INFO - [INFO] encrypt | User: 1 | Details: {"algorithm": "aes", "original_hash": "843b7a6b9f9e6dee6ea852512c520f57c414e11ad1c482885faeb7302a9f2abc", "encrypted_hash": "4478e898b4a96e0a381df4e31ceff594a26ba71c2284bb641049eca3f165d86f", "ip_address": "127.0.0.1"}
+2026-01-29 13:01:41,618 - INFO - 127.0.0.1 - - [29/Jan/2026 13:01:41] "POST /api/encrypt HTTP/1.1" 200 -
+2026-01-29 13:01:53,568 - INFO - 127.0.0.1 - - [29/Jan/2026 13:01:53] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 13:01:58,365 - INFO - 127.0.0.1 - - [29/Jan/2026 13:01:58] "GET / HTTP/1.1" 200 -
+2026-01-29 13:02:01,461 - INFO - 127.0.0.1 - - [29/Jan/2026 13:02:01] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 13:03:35,924 - INFO - 127.0.0.1 - - [29/Jan/2026 13:03:35] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-29 13:03:37,540 - INFO - 127.0.0.1 - - [29/Jan/2026 13:03:37] "GET /index.html HTTP/1.1" 200 -
+2026-01-29 13:04:16,226 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "hide_image", "file_size": 2344885, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 13:04:35,183 - INFO - [INFO] hide_image | User: 1 | Details: {"cover_hash": "e42dbaf50cf5997049694155ebda282980ba036ecf35a5158a2bd452246f21f2", "secret_hash": "5f00d093bb7603fd3234e49b1ab30702e9ad36f7e11b4e585bf5e391d1ee0d75", "output_hash": "9db72bca9574cc491f784af0296b765b9f7f79c92d35e5c3b38ac360070b16fb", "ip_address": "127.0.0.1"}
+2026-01-29 13:04:35,798 - INFO - 127.0.0.1 - - [29/Jan/2026 13:04:35] "POST /api/hide HTTP/1.1" 200 -
+2026-01-29 13:05:06,862 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "reveal_image", "file_size": 12462697, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 13:05:14,534 - INFO - [INFO] reveal_image | User: 1 | Details: {"steg_hash": "9db72bca9574cc491f784af0296b765b9f7f79c92d35e5c3b38ac360070b16fb", "output_hash": "335a7331cb1b10288adfbb18e644835ad8b27503744c23813bbd0ae933d8a5fd", "ip_address": "127.0.0.1"}
+2026-01-29 13:05:14,671 - INFO - 127.0.0.1 - - [29/Jan/2026 13:05:14] "POST /api/reveal HTTP/1.1" 200 -
+2026-01-29 13:05:46,673 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "encrypt", "file_size": 12462697, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 13:05:47,504 - INFO - [INFO] encrypt | User: 1 | Details: {"algorithm": "aes", "original_hash": "9db72bca9574cc491f784af0296b765b9f7f79c92d35e5c3b38ac360070b16fb", "encrypted_hash": "ff4778dbe266387791c8688fdda2734edd2a5858527026c277fe97fbd39bf832", "ip_address": "127.0.0.1"}
+2026-01-29 13:05:48,133 - INFO - 127.0.0.1 - - [29/Jan/2026 13:05:48] "POST /api/encrypt HTTP/1.1" 200 -
+2026-01-29 13:05:50,857 - INFO - 127.0.0.1 - - [29/Jan/2026 13:05:50] "[33mGET /api/api/download/encrypted_output.enc HTTP/1.1[0m" 404 -
+2026-01-29 13:06:14,303 - INFO - [INFO] validation_success | User: 1 | Details: {"operation": "decrypt", "file_size": 12462720, "ip_address": "127.0.0.1", "risk_level": "LOW"}
+2026-01-29 13:06:16,203 - INFO - [INFO] decrypt | User: 1 | Details: {"status": "success", "ip_address": "127.0.0.1"}
+2026-01-29 13:06:17,081 - INFO - 127.0.0.1 - - [29/Jan/2026 13:06:17] "POST /api/decrypt HTTP/1.1" 200 -
+2026-01-29 13:06:29,008 - INFO - 127.0.0.1 - - [29/Jan/2026 13:06:29] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 13:07:18,960 - INFO - 127.0.0.1 - - [29/Jan/2026 13:07:18] "[35m[1mPOST /api/auth/signup HTTP/1.1[0m" 201 -
+2026-01-29 13:07:36,120 - INFO - 127.0.0.1 - - [29/Jan/2026 13:07:36] "POST /api/auth/login HTTP/1.1" 200 -
+2026-01-29 13:07:37,708 - INFO - 127.0.0.1 - - [29/Jan/2026 13:07:37] "GET /index.html HTTP/1.1" 200 -
+2026-01-29 13:07:56,879 - INFO - 127.0.0.1 - - [29/Jan/2026 13:07:56] "GET /login.html HTTP/1.1" 200 -
+2026-01-29 13:09:10,747 - INFO - 127.0.0.1 - - [29/Jan/2026 13:09:10] "[31m[1mPOST /api/auth/signup HTTP/1.1[0m" 400 -

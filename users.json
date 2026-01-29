@@ -1,0 +1,35 @@
+{
+  "nadiafarah027@gmail.com": {
+    "id": "1",
+    "username": "farahnad",
+    "email": "nadiafarah027@gmail.com",
+    "password": "scrypt:32768:8:1$26KKca2Dsm1p0AxZ$7d6cdaf36c5f00dc1cc098548cbc86ee235a91ad7300e8e663bed74d211bba94984d7d7d2f223ddf9e8fce3c02c150f4e7514f18acbb82aa45e120c1abe97493",
+    "created_at": "2025-12-12T14:19:23.381855",
+    "last_login": "2026-01-29T05:03:35.913518"
+  },
+  "insyi@gmail.com": {
+    "id": "2",
+    "username": "insyi",
+    "email": "insyi@gmail.com",
+    "password": "scrypt:32768:8:1$kbNSOTJ8TOOptXA9$7763bfcf27cddc88f636c6707007f2f129b60cb05b484de36b2c5b17ce4dbb3184e39064c1da045151d0dd12d998a8201d27fe4b377a1b1f3e2a87331555621a",
+    "created_at": "2025-12-12T14:57:57.147562",
+    "last_login": "2025-12-18T06:18:02.537188"
+  },
+  "test@example.com": {
+    "id": "3",
+    "username": "testuser",
+    "email": "test@example.com",
+    "password": "scrypt:32768:8:1$tiON9Pcom24lElP8$5641bc838cf079417e773fc0a53f8361ff5b31895bc6a5dbb377a21ebbf170f1f432f8bba8f0831282ecce02bc17d63624ec4448e5a2a0013553da1439fd5fb2",
+    "created_at": "2025-12-14T09:20:36.684258",
+    "last_login": "2025-12-14T10:06:44.685946"
+  },
+  "abiyaz@gmail.com": {
+    "id": "4",
+    "username": "abiyaz",
+    "email": "abiyaz@gmail.com",
+    "password": "scrypt:32768:8:1$mYVFvKa2awsJGFoJ$7093c803f35b7dd38eb1be3e4bc16dd685e8f54f36d56164a8ce8c5b369a3bf7edc11c844afd531ac609cbc611ca3d017c88c0069b8288e0cb71353a2f61e213",
+    "created_at": "2025-12-16T16:22:38.564953",
+    "last_login": "2025-12-18T06:31:05.601437"
+  }
+  
+}
